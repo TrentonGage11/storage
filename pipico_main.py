@@ -28,7 +28,7 @@ mode = modes[0]
 #forever loop
 while True:
     # Button press
-    if Button.value = 0:
+    if Button.value == 0:
         #Off
         if mode == 7:
             mode = modes[0]
